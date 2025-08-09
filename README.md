@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/vara912">
+                    <img src="https://avatars.githubusercontent.com/u/196913052?v=4&size=64" width="100px;"
+                        alt="Seshamsetty Vara Prasad" />
+                    <br />
+                    <sub>
+                        <b>Seshamsetty Vara Prasad</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
